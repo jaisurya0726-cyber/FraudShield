@@ -1,0 +1,6 @@
+{
+  "name": "FraudShield AI",
+  "description": "AI-Powered Scam, Phishing & Fraud Detection Assistant analyzing SMS, WhatsApp, emails, URLs, QR codes, screenshots, phone numbers, and payment requests.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
